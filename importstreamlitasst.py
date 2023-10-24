@@ -44,7 +44,7 @@ st.header("**Your Technical Analysis Web Application***")
 st.write("""
 **Visually** show technical indicator on any stock on the market
 """)
-image = Image.open("c:/Users/ducmi/Downloads/Welcome to our technical analysis tool.jpg")
+image = Image.open("Welcome to our technical analysis tool.jpg")
 st.image(image, use_column_width=True)
 
 #Create a sidebar header
