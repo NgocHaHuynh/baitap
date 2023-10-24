@@ -1,3 +1,4 @@
+python -m pip install plotly
 import pandas as pd
 #Import the libraris
 import streamlit as st
