@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 from PIL import Image
 
 # Thay đổi tên tệp Excel và trang tính tương ứng
-url = 'C:/Users/FPT SHOP/Downloads/data-Fintech2023.xlsx'
+url = 'data Fintech2023'
 sheet = 'Price'
 
 @st.cache_data
