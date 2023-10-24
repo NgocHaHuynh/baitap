@@ -1,4 +1,6 @@
-pip install plotly
+import os
+
+os.system('pip install -r requirements.txt')
 import pandas as pd
 #Import the libraris
 import streamlit as st
